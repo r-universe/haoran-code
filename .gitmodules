@@ -1,4 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/haoran-code/haoran-code.r-universe.dev
 	branch = HEAD
+[submodule "presto"]
+	path = presto
+	url = https://github.com/HaoRan-Code/presto
+	branch = scmarkeragent
+[submodule "scmarkeragent"]
+	path = scmarkeragent
+	url = https://github.com/HaoRan-Code/scMarkerAgent
+	subdir = R
